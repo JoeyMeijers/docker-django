@@ -1,4 +1,4 @@
-# recipe-app-api
+# Django-postgress-app
 
 docker-compose build
 docker-compose run --rm app sh -c "django-admin startproject app ."
